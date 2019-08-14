@@ -1,0 +1,2 @@
+# SCS3253_TERM_PROJECT
+Term Project (SCS 3253)
